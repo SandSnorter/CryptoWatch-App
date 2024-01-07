@@ -15,3 +15,7 @@ The application utilizes the provider package for state management, ensuring an 
 ## Screen Recording
 
 https://github.com/SandSnorter/CryptoWatch-App/assets/121429638/721a33c7-9649-4d4c-9048-12e2517c4f28
+
+## Screenshots
+
+<img src="assets/Screenshot_1704648667.png"  width="400" height="800"> <img src="assets/screenshots/Screenshot_1704648673.png"  width="400" height="800">

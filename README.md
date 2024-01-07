@@ -18,4 +18,14 @@ https://github.com/SandSnorter/CryptoWatch-App/assets/121429638/721a33c7-9649-4d
 
 ## Screenshots
 
-<img src="assets/Screenshot_1704648667.png"  width="400" height="800"> <img src="assets/screenshots/Screenshot_1704648673.png"  width="400" height="800">
+<img src="assets/Screenshot_1704648667.png"  width="400" height="800"> <img src="assets/Screenshot_1704648673.png"  width="400" height="800">
+
+## Getting Started
+To run the CryptoWatch Application on your local machine, follow these steps:
+
+- Ensure you have Flutter installed. If not, follow the instructions in the - Flutter documentation to install Flutter.
+- Clone this repository to your local machine.
+- Open the project in your favorite IDE or editor.
+- Run flutter pub get to install the required dependencies.
+- Connect a device or start an emulator.
+- Run flutter run to launch the application.

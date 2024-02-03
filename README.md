@@ -1,4 +1,4 @@
-# CryptoWatch Cryptotracking Application - Eighty7 Financial Mobile Dev Intern Assesment
+# Cryptotracking Application 
 
 ## Table of Contents
 - Description
